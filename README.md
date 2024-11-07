@@ -1,5 +1,7 @@
 # Clickjacking Detection Tool
 
+[![Clickjacking Detection Tool - YouTube](https://img.youtube.com/vi/bUTV0UrEReY/0.jpg)](https://www.youtube.com/watch?v=bUTV0UrEReY)
+
 This is a Python-based tool designed to detect clickjacking vulnerabilities on websites. It utilizes `Selenium` to simulate potential clickjacking scenarios, `Requests` for analyzing HTTP headers, and `Colorama` to display color-coded results in the terminal. The tool is user-friendly and allows users to either test a single URL or load multiple URLs from a text file for batch testing.
 
 ## Table of Contents
